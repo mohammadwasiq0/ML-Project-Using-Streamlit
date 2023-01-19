@@ -90,6 +90,23 @@ def get_classifier(classifier_name, params):
 
     return clf
 
+# --------------------------------------#
+if st.checkbox('Show Code'):
+    with st.echo():
+        clf= get_classifier(classifier_name, params)
+
+# Train Test Split of data
+        X_train, X_text, y_train, y_test= train_test_split(X, y, train_size= 0.2, random_state= 1234)
+
+        clf.fit(X_train, y_train)
+
+        y_pred= clf.predict(X_text)
+
+# Model Accuracy
+        acc= accuracy_score(y_test, y_pred)
+
+# -----------------------------------------#
+
 clf= get_classifier(classifier_name, params)
 
 # Train Test Split of data
