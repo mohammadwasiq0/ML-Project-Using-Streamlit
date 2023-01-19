@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score
 # About App
 st.write('''
 # Explore Different Machine Learning Models with Datasets by Mohammad Wasiq
-Let's see which model is best
+Let's see which model is best because I fit here three models 1. **KNN**, 2. **SVC**, 3. **Random Forest**
 ''')
 
 # Datasets
