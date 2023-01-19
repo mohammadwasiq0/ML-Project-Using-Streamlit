@@ -1,6 +1,6 @@
 # [**ML Project Using Streamlit**](https://mohammadwasiq0-ml-project-using-streamlit-app-s401t5.streamlit.app/#explore-different-machine-learning-models-with-datasets-by-mohammad-wasiq)
 
-This is my first project which is **deployed** on ***Streamlit**
+This is my first project which is **deployed** on **Streamlit**
 
 ## Steps to deploy the project
 * **Step-1 :** Create a **requirements.txt** file.
@@ -10,4 +10,4 @@ This is my first project which is **deployed** on ***Streamlit**
 * **Step-5 :** Click on **New App** then **From existing repo**
 * **Step-6 :** Fill the require information.
 
-**Link of this Project :** ***https://mohammadwasiq0-ml-project-using-streamlit-app-s401t5.streamlit.app/#explore-different-machine-learning-models-with-datasets-by-mohammad-wasiq**
+**Link of this Project :** **https://mohammadwasiq0-ml-project-using-streamlit-app-s401t5.streamlit.app/#explore-different-machine-learning-models-with-datasets-by-mohammad-wasiq**
