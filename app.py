@@ -17,7 +17,11 @@ I fit here three models
 1. **KNN**
 2. **SVC**
 3. **Random Forest**
-Let's see which model is best
+on different datasets
+* **Iris**
+* **Brest Cancer**
+* **Wine**
+Let's see which model is best 
 ''')
 
 # Datasets
